@@ -1,0 +1,1 @@
+python3 /home/admin/Desktop/arianna/project.py

@@ -1,0 +1,3 @@
+NidoUrl=https://api.nidopro.com
+APIKey=404670b244a6919cee409a153362d6147e046dbac3633bc892db8a4a1bceed78c0189a4f252907ee8b95cc442358e185
+DeviceId=_d_020139c6e461
